@@ -1,0 +1,9 @@
+selection on condition
+    https://stackoverflow.com/questions/15315452/selecting-with-complex-criteria-from-pandas-dataframe
+dataframe calculate
+    https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.corr.html
+    http://blog.csdn.net/zhuxiaodong030/article/details/54316345
+sklearn
+    http://scikit-learn.org/stable/modules/preprocessing.html
+pandas visual
+    https://pandas.pydata.org/pandas-docs/stable/visualization.html
